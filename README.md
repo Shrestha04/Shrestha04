@@ -1,5 +1,5 @@
 <h1 align="center" style="font-size: 3em; font-weight: bold;">
-  Hello Visitors, Myself Shrestha Jaiswal
+  Hello Visitors  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, Myself Shrestha Jaiswal
 </h1>
 
 <h3 align="center">🚀 Final Year Student | Data Science & Machine Learning Enthusiast | Problem Solver</h3>

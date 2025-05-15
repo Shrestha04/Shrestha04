@@ -30,7 +30,7 @@
 ---
 
 ### ⚙️ Languages & Tools
-<h2>🤖 Machine Learning & AI Tools</h2>
+<h3>🤖 Machine Learning & AI Tools</h3>
 
 
 
@@ -48,7 +48,7 @@
 
 ---
 
-<h2>📊 Data Science & Analytics Tools</h2>
+<h3>📊 Data Science & Analytics Tools</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />

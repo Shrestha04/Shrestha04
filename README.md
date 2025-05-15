@@ -77,9 +77,9 @@
 
 | Project | Description | 
 |--------|-------------|
-| 🧠 **Sign-Language-Detection-System ** |Real-time sign language recognition system utilizing machine learning and Mediapipe for accurate gesture detection of ASL through webcam with high accuracy and custom-trained model. |
-| 📊 **Symptom Analyzer** | disease diagnosis and recommendation system | 
-| 🗣️ **Automatic Number Plate Recognition System** |Implemented an ANPR system enabling real-time visualization on video frames using Python, YOLOv8|
+| 🧠 Sign-Language-Detection-System  |Real-time sign language recognition system utilizing machine learning and Mediapipe for accurate gesture detection of ASL through webcam with high accuracy and custom-trained model. |
+| 📊 Symptom Analyzer | disease diagnosis and recommendation system | 
+| 🗣️ Automatic Number Plate Recognition System|Implemented an ANPR system enabling real-time visualization on video frames using Python, YOLOv8|
 
 
 ---

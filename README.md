@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Shrestha Jaiswal</h1>
 <h3 align="center">🚀 Final Year Student | Data Science & Machine Learning Enthusiast | Problem Solver</h3>
 
-<p align="center">
+<p align="center" style="height=40px">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&multiline=true&width=550&lines=Final+Year+Student+in+Data+Science;Exploring+Machine+Learning+and+AI;Transforming+Data+into+Decisions;Lifelong+Learner+%7C+Code+%26+Curiosity" alt="Typing SVG" />
 </p>
 

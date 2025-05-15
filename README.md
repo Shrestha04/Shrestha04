@@ -32,7 +32,7 @@
 ### ⚙️ Languages & Tools
 <h2>🤖 Machine Learning & AI Tools</h2>
 
-<h3 align="left">Machine Learning: </h3>
+
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 

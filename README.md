@@ -20,10 +20,16 @@
 ---
 
 ### ⚙️ Languages & Tools
-
+<h2>🤖 Machine Learning & AI Tools</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,pandas,numpy,sklearn,tensorflow,sql,tableau,powerbi,github,vscode,jupyter&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,keras,opencv,jupyter,vscode,github&perline=6" />
 </p>
+----
+<h2>📊 Data Science & Analytics Tools</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,pandas,numpy,sql,tableau,powerbi,excel&perline=6" />
+</p>
+
 
 ---
 

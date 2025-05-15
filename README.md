@@ -66,15 +66,8 @@
 
 ### 📊 GitHub Analytics
 
-  <summary><h2> <img align="center" src="https://github.com/Shrestha04/Shrestha04/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
-  <div align="center">
-    ![](https://github-readme-stats.vercel.app/api?username=Shrestha04&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=Shrestha04&theme=tokyonight&hide_border=false)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrestha04&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-    ![](https://github-readme-activity-graph.vercel.app/graph?username=Shrestha04&theme=tokyo-night)
-  </div>
 
-  <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shrestha04&show_icons=true&theme=radical" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrestha04&theme=radical" width="48%" />
 </p>
@@ -85,7 +78,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrestha04&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrestha04&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 

@@ -28,16 +28,16 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shrestha04&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrestha04&theme=radical" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=dracula&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shrestha04&theme=dracula&row=1&column=7" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrestha04&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ---

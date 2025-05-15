@@ -1,4 +1,7 @@
-<h1 align="center">Hey there 👋, I'm Shrestha Jaiswal</h1>
+<h1 align="center" style="font-size: 3em; font-weight: bold;">
+  Hey there 👋, I'm Shrestha Jaiswal
+</h1>
+
 <h3 align="center">🚀 Final Year Student | Data Science & Machine Learning Enthusiast | Problem Solver</h3>
 
 <p align="center">
@@ -24,7 +27,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,keras,opencv,jupyter,vscode,github&perline=6" />
 </p>
----
+
 <h2>📊 Data Science & Analytics Tools</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,pandas,numpy,sql,tableau,powerbi,excel&perline=6" />

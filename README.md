@@ -24,7 +24,7 @@
 - 🎓 Final-year student with a deep passion for Data Science and Artificial Intelligence  
 - 📊 Skilled in data analysis, exploratory data analysis (EDA), and machine learning  
 - 🧪 Creating hands-on projects using real-world datasets to solve practical problems  
-- ✍️ Sharing my learning journey through GitHub repositories and technical blogs  
+- ✍️ Sharing my learning journey through GitHub repositories  
 - 🌱 Currently exploring Deep Learning, Natural Language Processing, and model optimization
 
 ---

@@ -95,13 +95,6 @@
 
 ---
 
-### 🔥 My Dev Setup
-
-- 💻 Editor: VSCode / JupyterLab  
-- ⚙️ OS: Windows & Linux  
-- 🎯 Goal: Becoming a Data Scientist | Kaggle Expert | ML Engineer  
-
----
 
 
 

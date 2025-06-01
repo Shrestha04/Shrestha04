@@ -66,6 +66,10 @@
 
 ### 📊 GitHub Analytics
 
+<img src="https://github-readme-stats.vercel.app/api?username=Shrestha04&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Shrestha04's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrestha04&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Shrestha04's GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=Shrestha04&theme=tokyonight&hide_border=true" alt="Shrestha04's GitHub Stats" />
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shrestha04&show_icons=true&theme=radical" width="48%"/>

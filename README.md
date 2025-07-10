@@ -83,7 +83,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shrestha04&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Shrestha04's GitHub Stats" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrestha04&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Shrestha04's GitHub Stats" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrestha04&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Shrestha04's GitHub Stats" height="190" />
 </p>
 
 <p align="center">

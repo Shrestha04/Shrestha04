@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
@@ -23,7 +23,7 @@
   </a>
 </p>
 
----
+----
 <img src="https://komarev.com/ghpvc/?username=Shrestha04&style=flat-square&color=blue" alt=""/>
 
 ### 🧠 About Me
@@ -34,7 +34,7 @@
 - ✍️ Sharing my learning journey through GitHub repositories  
 - 🌱 Currently exploring Deep Learning, Natural Language Processing, and model optimization
 
----
+----
 
 ### ⚙️ Languages & Tools
 
@@ -89,7 +89,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
----
+----
 
 <h3>🤖 Machine Learning & AI Tools</h3>
 
@@ -106,7 +106,7 @@
   ![Seaborn](https://img.shields.io/badge/Seaborn-%2300599C.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
 
 
----
+----
 
 <h3>📊 Data Science & Analytics Tools</h3>
 <p align="left">
@@ -122,7 +122,7 @@
 </p>
 
 
----
+----
 
 ### 📊 GitHub Analytics
 
@@ -138,12 +138,12 @@
 
 ###
 
+
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 
 ###
-
 
 
 

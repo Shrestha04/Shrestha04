@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
-💡 I love transforming data into intelligence and ideas into applications. From AI-powered tools to analytical dashboards, I build tech that makes life smarter and simpler.
+
 ---
 <img src="https://komarev.com/ghpvc/?username=Shrestha04&style=flat-square&color=blue" alt=""/>
 

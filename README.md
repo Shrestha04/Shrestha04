@@ -13,9 +13,6 @@
   <a href="https://www.linkedin.com/in/shrestha-jaiswal/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://mail.google.com/mail/u/shrestha.jaiswal04@gmail.com/#inbox?compose=new">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 
   <a href="https://shresthajaiswal.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -58,7 +55,6 @@
   ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
   ![Seaborn](https://img.shields.io/badge/Seaborn-%2300599C.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
-  [![DVC](https://img.shields.io/badge/DVC-Data%20Version%20Control-brightgreen?style=for-the-badge)](https://dvc.org/)
 
 
 ---
@@ -83,23 +79,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shrestha04&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Shrestha04's GitHub Stats" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrestha04&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Shrestha04's GitHub Stats" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrestha04&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Shrestha04's GitHub Stats" height="200" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Shrestha04&theme=tokyonight&hide_border=false" alt="Shrestha04's GitHub Stats" />
 </p>
-
-
----
-
-### 🌟 Featured Projects
-
-| Project | Description | 
-|--------|-------------|
-| 🧠 Sign-Language-Detection-System  |Real-time sign language recognition system utilizing machine learning and Mediapipe for accurate gesture detection of ASL through webcam with high accuracy and custom-trained model. |
-| 📊 Symptom Analyzer | disease diagnosis and recommendation system | 
-| 🗣️ Automatic Number Plate Recognition System|Implemented an ANPR system enabling real-time visualization on video frames using Python, YOLOv8|
 
 
 ---

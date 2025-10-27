@@ -111,7 +111,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shrestha04&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Shrestha04's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrestha04&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" height="200" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrestha04&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" height="180" width="380" />
 </p>
 
 <p align="center">

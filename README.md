@@ -10,10 +10,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shrestha-jaiswal-b44b41251/" target="_blank">
+  <a href="https://www.linkedin.com/in/shrestha-jaiswal/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="shrestha.jaiswal04@gmail.com">
+  <a href="https://mail.google.com/mail/u/shrestha.jaiswal04@gmail.com/#inbox?compose=new">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 

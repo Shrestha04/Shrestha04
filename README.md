@@ -28,7 +28,9 @@
 
 ### 🧠 About Me
 
-<em style="font-family: 'Georgia', serif;">💡 I love transforming <b>data into intelligence</b> and <b>ideas into applications</b>. From <b>AI-powered tools</b> to <b>analytical dashboards</b>, I build tech that makes life <b>smarter and simpler.</b></em>
+<p align="center">
+  <em style="font-family:'Poppins', sans-serif; font-size:16px;">💡 “I love transforming <b>data into intelligence</b> and <b>ideas into applications</b>. From <b>AI-powered tools</b> to <b>analytical dashboards</b>, I build technology that feels <b>human, smart, and simple.</b>”</em>
+</p>
 
 - 🎓 Final-year student with a deep passion for Data Science and Artificial Intelligence  
 - 📊 Skilled in data analysis, exploratory data analysis (EDA), and machine learning  
